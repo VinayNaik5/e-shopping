@@ -81,7 +81,7 @@ export default function Details() {
                 <div className="accordion-item">
                   <div className="accordion-header" id="offer-one">
                     <button
-                      className="accordion-button"
+                      className="accordion-button collapsed"
                       type="button"
                       data-bs-toggle="collapse"
                       data-bs-target="#offerCollapse-one-body"
@@ -106,7 +106,7 @@ export default function Details() {
                 <div className="accordion-item">
                   <div className="accordion-header" id="offer-two">
                     <button
-                      className="accordion-button"
+                      className="accordion-button collapsed"
                       type="button"
                       data-bs-toggle="collapse"
                       data-bs-target="#offerCollapse-two-body"
@@ -131,7 +131,7 @@ export default function Details() {
                 <div className="accordion-item">
                   <div className="accordion-header" id="offer-three">
                     <button
-                      className="accordion-button"
+                      className="accordion-button collapsed"
                       type="button"
                       data-bs-toggle="collapse"
                       data-bs-target="#offerCollapse-three-body"
