@@ -1,0 +1,12 @@
+.imgclass{
+    width: 100%;
+    height: 400px;
+}
+.borderclass{
+    border: 2px solid black;
+    /* justify-content: ; */
+}
+.imgdivclass{
+    padding: 10px;
+   
+}
