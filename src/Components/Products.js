@@ -22,7 +22,7 @@ const Products = () => {
     <>
       <div className="d-flex align-items-center justify-content-center">
         <div className="container p-3 m-2 justify-content-center ">
-          <div className="row g-4 align-items-center justify-content-center">
+          <div className="row g-4 justify-content-center">
             {products.map((prod, ind) => {
               return (
                 <div
